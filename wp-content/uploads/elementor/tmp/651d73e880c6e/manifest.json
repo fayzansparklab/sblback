@@ -1,0 +1,1625 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Melier",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage v1",
+            "screenshot": "screenshots\/homepage-v1.jpg",
+            "source": "templates\/homepage-v1.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage v2",
+            "screenshot": "screenshots\/homepage-v2.jpg",
+            "source": "templates\/homepage-v2.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/homepage-v2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Locations",
+            "screenshot": "screenshots\/locations.jpg",
+            "source": "templates\/locations.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/locations\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/?elementor_library=theme-builder-header-dark-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.4.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-home.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/bg-home-800x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 83490,
+            "dimensions": [
+                1440,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "asterisk-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/asterisk-02.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                }
+            ],
+            "filesize": 1293,
+            "dimensions": [
+                61,
+                62
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "wave-line.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/wave-line.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 2824,
+            "dimensions": [
+                448,
+                191
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-images.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/hero-images.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                }
+            ],
+            "filesize": 229656,
+            "dimensions": [
+                700,
+                896
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/long-hair-woman-beautiful-face-healthy-hair-FVMMF8F"
+        },
+        {
+            "filename": "feature-icon-01b.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/feature-icon-01b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2984,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/beauty-salon-line-design-style-icons-set-G3Z6QYE"
+        },
+        {
+            "filename": "feature-icon-02c.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/feature-icon-02c.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2899,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-training-line-design-style-icons-set-JJWFFAV"
+        },
+        {
+            "filename": "feature-icon-03b.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/feature-icon-03b.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 1354,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/psychology-concept-line-design-style-icons-set-AHJSNWW"
+        },
+        {
+            "filename": "process-of-making-trendy-hairstyle-in-beauty-salon-2021-08-29-01-35-06-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/process-of-making-trendy-hairstyle-in-beauty-salon-2021-08-29-01-35-06-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 171590,
+            "dimensions": [
+                1700,
+                1135
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/process-of-making-trendy-hairstyle-in-beauty-salon-P92YDQ9"
+        },
+        {
+            "filename": "play-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/play-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                }
+            ],
+            "filesize": 1824,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "images-home-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/images-home-01-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 76434,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairdresser-in-protective-mask-cutting-hair-of-afr-K2ZB7PU"
+        },
+        {
+            "filename": "wave-line-brown.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/wave-line-brown.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 2923,
+            "dimensions": [
+                448,
+                191
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hair-style-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/hair-style-01-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 70590,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-with-beauty-brown-hair-portrait-of-brunette--NHPXX2M"
+        },
+        {
+            "filename": "hair-style-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/hair-style-02-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 73015,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brunette-woman-with-curly-hairstyle-PPUFT4F"
+        },
+        {
+            "filename": "hair-style-03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/hair-style-03-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 124285,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beauty-fashion-model-girl-with-colorful-dyed-hair-RTLMEP5"
+        },
+        {
+            "filename": "images-home-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/images-home-02-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 105220,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/applying-shatush-hair-color-in-progress-TQ7MULN"
+        },
+        {
+            "filename": "testi-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/testi-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 8454,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-women-wear-black-strapless-tops-and-face-to-th-FW97GBD"
+        },
+        {
+            "filename": "testi-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/testi-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 9451,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-cheerful-millennial-girl-stands-with-hap-M5UTWAQ"
+        },
+        {
+            "filename": "wave-line-brown-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/wave-line-brown-02.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 2920,
+            "dimensions": [
+                448,
+                191
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "focused-hairdresser-works-drying-the-hair-of-a-bea-2021-09-24-04-23-52-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/focused-hairdresser-works-drying-the-hair-of-a-bea-2021-09-24-04-23-52-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 54789,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/focused-hairdresser-works-drying-the-hair-of-a-bea-2E5R6TG"
+        },
+        {
+            "filename": "long-hair-woman-hand-touching-hair-smooth-brunette-2021-08-28-14-29-31-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/long-hair-woman-hand-touching-hair-smooth-brunette-2021-08-28-14-29-31-utc-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 68835,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/long-hair-woman-hand-touching-hair-smooth-brunette-5CA8DJG"
+        },
+        {
+            "filename": "beautiful-young-woman-with-beautiful-hair-in-hair-2021-08-29-11-20-41-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/beautiful-young-woman-with-beautiful-hair-in-hair-2021-08-29-11-20-41-utc-1-800x1023.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 149329,
+            "dimensions": [
+                1024,
+                1309
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-woman-with-beautiful-hair-in-hair--ZEF6ASE"
+        },
+        {
+            "filename": "interior-of-hair-salon-with-barber-armchair-2021-08-27-19-12-50-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/interior-of-hair-salon-with-barber-armchair-2021-08-27-19-12-50-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 59950,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-hair-salon-with-barber-armchair-KMW2LTR"
+        },
+        {
+            "filename": "beautiful-female-curly-blond-hairs-back-view-2021-09-03-06-34-38-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/beautiful-female-curly-blond-hairs-back-view-2021-09-03-06-34-38-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 174050,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-female-curly-blond-hairs-back-view-JADF4KU"
+        },
+        {
+            "filename": "beauty-hairstyle-hairdresser-salon-2021-08-30-09-12-40-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/beauty-hairstyle-hairdresser-salon-2021-08-30-09-12-40-utc-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 142230,
+            "dimensions": [
+                1024,
+                1536
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beauty-hairstyle-hairdresser-salon-KWGGTKX"
+        },
+        {
+            "filename": "bg-cta-email-04.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/11\/bg-cta-email-04-800x188.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v1.json",
+                    "name": "Homepage v1"
+                },
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 36982,
+            "dimensions": [
+                1920,
+                450
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "play-icon-brown.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/play-icon-brown.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                }
+            ],
+            "filesize": 2090,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-team-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/image-team-02-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 67511,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairdresser-doing-hairstyle-to-her-client-while-st-JRDNBQS"
+        },
+        {
+            "filename": "bg-video.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/bg-video-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 177117,
+            "dimensions": [
+                1700,
+                1134
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairdresser-applying-hairspray-to-hairdo-3JFLZGT"
+        },
+        {
+            "filename": "logo-01.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/logo-01.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3068,
+            "dimensions": [
+                214,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-04.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/logo-04.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1691,
+            "dimensions": [
+                260,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-03.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/logo-03.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1436,
+            "dimensions": [
+                178,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-02.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/logo-02.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1970,
+            "dimensions": [
+                256,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "service-icon-01e.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/service-icon-01e.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 2317,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/webuy-beauty-icons-7JLFG38"
+        },
+        {
+            "filename": "eyelash-extensions-in-a-beauty-salon-a-young-girl-2021-10-21-02-41-59-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/eyelash-extensions-in-a-beauty-salon-a-young-girl-2021-10-21-02-41-59-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 67953,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/eyelash-extensions-in-a-beauty-salon-a-young-girl--ZE62ZEN"
+        },
+        {
+            "filename": "service-icon-02e.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/service-icon-02e.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 2284,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/webuy-beauty-icons-7JLFG38"
+        },
+        {
+            "filename": "perfect-nails-and-manicure-process-professional-m-2021-09-02-23-26-28-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/perfect-nails-and-manicure-process-professional-m-2021-09-02-23-26-28-utc-1-800x552.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 54719,
+            "dimensions": [
+                1024,
+                707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/perfect-nails-and-manicure-process-professional-ma-DCXMDU3"
+        },
+        {
+            "filename": "service-icon-03f.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/service-icon-03f.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-v2.json",
+                    "name": "Homepage v2"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 2497,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/webuy-beauty-icons-7JLFG38"
+        },
+        {
+            "filename": "a-professional-hairdresser-stands-in-a-beauty-salo-2021-09-24-04-23-50-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/a-professional-hairdresser-stands-in-a-beauty-salo-2021-09-24-04-23-50-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 53741,
+            "dimensions": [
+                1024,
+                684
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-professional-hairdresser-stands-in-a-beauty-salo-24PW2BS"
+        },
+        {
+            "filename": "bg-about-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/bg-about-01-800x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 127260,
+            "dimensions": [
+                1920,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-hair-salon-with-barber-armchair-KMW2LTR"
+        },
+        {
+            "filename": "image-about-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/image-about-01-800x781.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 110254,
+            "dimensions": [
+                1024,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-woman-with-beautiful-hair-in-hair--ZEF6ASE"
+        },
+        {
+            "filename": "bg-cta-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/bg-cta-02-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 49569,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg-home-02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/bg-home-02-800x478.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 169397,
+            "dimensions": [
+                1920,
+                1146
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairdresser-brushing-hair-of-young-woman-in-beauty-DY88MNM"
+        },
+        {
+            "filename": "award.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/award.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4185,
+            "dimensions": [
+                163,
+                133
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "beautiful-young-model-with-red-lips-and-nude-manic-2021-08-26-22-32-33-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/beautiful-young-model-with-red-lips-and-nude-manic-2021-08-26-22-32-33-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 114539,
+            "dimensions": [
+                700,
+                888
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-model-with-red-lips-and-nude-manic-KQC59X6"
+        },
+        {
+            "filename": "beautiful-brunette-with-shiny-green-makeup-touchin-2021-08-29-16-39-26-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/beautiful-brunette-with-shiny-green-makeup-touchin-2021-08-29-16-39-26-utc-800x623.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 112761,
+            "dimensions": [
+                1024,
+                797
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-brunette-with-shiny-green-makeup-touchin-EMA8LLM"
+        },
+        {
+            "filename": "closeup-face-of-a-woman-with-red-nails-and-lips-2021-08-26-18-24-36-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/closeup-face-of-a-woman-with-red-nails-and-lips-2021-08-26-18-24-36-utc-1-800x601.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 173167,
+            "dimensions": [
+                1024,
+                769
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-face-of-a-woman-with-red-nails-and-lips-MTPVCD7"
+        },
+        {
+            "filename": "image-service-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/image-service-01-800x1172.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 95640,
+            "dimensions": [
+                1024,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-with-hair-stylist-in-beauty-salon-UZYCRJU"
+        },
+        {
+            "filename": "image-service-detail-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/image-service-detail-01-800x469.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 120089,
+            "dimensions": [
+                1024,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beauty-fashion-model-girl-with-colorful-dyed-hair-RTLMEP5"
+        },
+        {
+            "filename": "hairdresser-cutting-client-s-hair-in-salon-with-el.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/hairdresser-cutting-client-s-hair-in-salon-with-el-800x666.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 99098,
+            "dimensions": [
+                1024,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairdresser-cutting-clients-hair-in-salon-with-ele-PWMGNA2"
+        },
+        {
+            "filename": "beauty-portrait-woman-with-pink-hair-creative-viv-2021-11-30-22-45-02-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/beauty-portrait-woman-with-pink-hair-creative-viv-2021-11-30-22-45-02-utc-800x972.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 114049,
+            "dimensions": [
+                1024,
+                1244
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-woman-with-bright-colored-flying-hai-WVELYDG"
+        },
+        {
+            "filename": "woman-with-creative-yellow-coloring-hair-and-makeu-2021-11-30-03-59-50-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/woman-with-creative-yellow-coloring-hair-and-makeu-2021-11-30-03-59-50-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 72759,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-with-creative-yellow-coloring-hair-and-makeu-64RPRVT"
+        },
+        {
+            "filename": "team-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/team-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 21904,
+            "dimensions": [
+                600,
+                645
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-happy-young-female-hairdresser-smiling-a-MJQKBW5"
+        },
+        {
+            "filename": "team-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 23000,
+            "dimensions": [
+                600,
+                645
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-owner-of-hairdresser-salon-KEZVWFC"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 26335,
+            "dimensions": [
+                600,
+                645
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-owner-of-hairdresser-salon-8SZLMP3"
+        },
+        {
+            "filename": "team-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 21304,
+            "dimensions": [
+                600,
+                645
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-female-hairdresser-in-workwear-holdi-Y29FGNP"
+        },
+        {
+            "filename": "image-team-01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/image-team-01-800x938.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 127213,
+            "dimensions": [
+                1024,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/process-of-making-trendy-hairstyle-in-beauty-salon-P92YDQ9"
+        },
+        {
+            "filename": "empty-barbershop-2021-09-24-01-23-28-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/empty-barbershop-2021-09-24-01-23-28-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 95420,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-barbershop-P6ZNG4J"
+        },
+        {
+            "filename": "hairdressing-procedures-concept-barber-workplace-2021-08-27-21-14-36-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/salonkit\/wp-content\/uploads\/sites\/46\/2021\/12\/hairdressing-procedures-concept-barber-workplace-2021-08-27-21-14-36-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/locations.json",
+                    "name": "Locations"
+                }
+            ],
+            "filesize": 56868,
+            "dimensions": [
+                1024,
+                683
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hairdressing-procedures-concept-barber-workplace-f-J5SDD36"
+        }
+    ]
+}

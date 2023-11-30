@@ -1,0 +1,23 @@
+/* Kit 84 Custom Styles - apply under advanced on the element to affect */
+/* Books Slider Overlay Removal */
+.envato-kit-84-book-slider.elementor-skin-slideshow .elementor-thumbnails-swiper .swiper-slide:not(.swiper-slide-active):after {
+	background-color: transparent;
+}
+/* Icon scrolling overlay */
+.envato-kit-84-social-overlay{
+	bottom: 40% !important;
+}
+
+.envato-kit-84-carousel .swiper-slide-next,
+.envato-kit-84-carousel .swiper-slide-prev{
+	padding: 10% 6% 10% 5%;
+ transition: ease-in-out .5s;
+}
+
+.swiper-pagination-bullets span:not(.swiper-pagination-bullet-active){
+	background: #999 !important;
+}
+.envato-kit-84-coverflow .swiper-slide-shadow-right,
+.envato-kit-84-coverflow .swiper-slide-shadow-left{
+	display: none;
+}
